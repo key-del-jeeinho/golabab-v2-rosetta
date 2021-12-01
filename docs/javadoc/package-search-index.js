@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"io.github.key_del_jeeinho.golabab_v2.rosetta.account"},{"l":"io.github.key_del_jeeinho.golabab_v2.rosetta.lunch"},{"l":"io.github.key_del_jeeinho.golabab_v2.rosetta.tiptic"},{"l":"io.github.key_del_jeeinho.golabab_v2.rosetta.vote"}];updateSearchResults();
