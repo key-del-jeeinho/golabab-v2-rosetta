@@ -1,7 +1,6 @@
-package dto;
+package com.golabab.v2.rosetta.lunch;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
-import enum_type.MealType;
 import lombok.Builder;
 
 import java.util.List;

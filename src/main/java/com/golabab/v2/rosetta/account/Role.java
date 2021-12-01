@@ -1,7 +1,4 @@
-package enum_type;
-
-
-import dto.UnauthorizedAccountDto;
+package com.golabab.v2.rosetta.account;
 
 /**
  * 특정 유저의 권한을 나타내는 열거형 클래스 입니다.
@@ -14,7 +11,7 @@ import dto.UnauthorizedAccountDto;
  *
  * @author 지인호
  * @since 1.0
- * @see dto.AccountDto
+ * @see AccountDto
  */
 public enum Role {
     DEVELOPER, ADMIN, OPERATOR, USER

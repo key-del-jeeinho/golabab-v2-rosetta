@@ -1,4 +1,4 @@
-package dto;
+package com.golabab.v2.rosetta.vote;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 import lombok.Builder;

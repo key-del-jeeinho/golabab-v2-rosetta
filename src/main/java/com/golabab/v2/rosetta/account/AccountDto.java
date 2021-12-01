@@ -1,7 +1,6 @@
-package dto;
+package com.golabab.v2.rosetta.account;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
-import enum_type.Role;
 
 /**
  * 해당서비스를 이용하는 사용자들의 계정 정보를 담고있는 DTO 입니다.

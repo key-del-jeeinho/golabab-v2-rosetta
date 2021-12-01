@@ -1,4 +1,4 @@
-package dto;
+package com.golabab.v2.rosetta.tiptic;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 

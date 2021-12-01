@@ -1,4 +1,4 @@
-package enum_type;
+package com.golabab.v2.rosetta.lunch;
 
 /**
  * 식단의 종류를 나타내는 열거형 클래스 입니다.
@@ -10,8 +10,8 @@ package enum_type;
  *
  * @author 지인호
  * @since 1.0
- * @see dto.MealMenuDto
- * @see dto.DayMenuDto
+ * @see MealMenuDto
+ * @see DayMenuDto
  */
 public enum MealType {
     BREAKFAST,
