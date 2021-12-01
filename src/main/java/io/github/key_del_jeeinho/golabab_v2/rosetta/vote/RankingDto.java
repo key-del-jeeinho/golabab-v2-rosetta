@@ -1,4 +1,4 @@
-package com.golabab.v2.rosetta.vote;
+package io.github.key_del_jeeinho.golabab_v2.rosetta.vote;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 import lombok.Builder;

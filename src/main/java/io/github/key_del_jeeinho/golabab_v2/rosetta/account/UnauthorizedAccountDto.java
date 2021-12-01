@@ -1,7 +1,6 @@
-package com.golabab.v2.rosetta.account;
+package io.github.key_del_jeeinho.golabab_v2.rosetta.account;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
-import com.golabab.v2.rosetta.account.AccountDto;
 
 /**
  * 해당서비스를 이용하기위해 인증과정에 있는 계정의 정보를 담고있는 DTO 입니다.

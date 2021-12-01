@@ -1,4 +1,4 @@
-package com.golabab.v2.rosetta.lunch;
+package io.github.key_del_jeeinho.golabab_v2.rosetta.lunch;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 import lombok.Builder;

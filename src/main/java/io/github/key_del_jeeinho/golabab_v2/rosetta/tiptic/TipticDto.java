@@ -1,4 +1,4 @@
-package com.golabab.v2.rosetta.tiptic;
+package io.github.key_del_jeeinho.golabab_v2.rosetta.tiptic;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 

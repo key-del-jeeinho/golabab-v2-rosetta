@@ -1,4 +1,4 @@
-package com.golabab.v2.rosetta.account;
+package io.github.key_del_jeeinho.golabab_v2.rosetta.account;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 

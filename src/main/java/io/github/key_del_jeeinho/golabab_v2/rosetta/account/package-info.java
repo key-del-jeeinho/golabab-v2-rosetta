@@ -4,4 +4,4 @@
  * @author 지인호
  * @since 1.0
  */
-package com.golabab.v2.rosetta.account;
+package io.github.key_del_jeeinho.golabab_v2.rosetta.account;

@@ -1,4 +1,4 @@
-package com.golabab.v2.rosetta.account;
+package io.github.key_del_jeeinho.golabab_v2.rosetta.account;
 
 /**
  * 특정 유저의 권한을 나타내는 열거형 클래스 입니다.

@@ -1,4 +1,4 @@
-package com.golabab.v2.rosetta.lunch;
+package io.github.key_del_jeeinho.golabab_v2.rosetta.lunch;
 
 /**
  * 식단의 종류를 나타내는 열거형 클래스 입니다.
