@@ -10,7 +10,7 @@ package io.github.key_del_jeeinho.golabab_v2.rosetta.account;
  * </ol>
  *
  * @author 지인호
- * @since 1.0
+ * @since 1.0.0
  * @see AccountDto
  */
 public enum Role {

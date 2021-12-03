@@ -7,7 +7,7 @@ import com.fasterxml.jackson.annotation.JsonProperty;
  * 인증 및 가입로직을 수행하기위해 사용됩니다.
  *
  * @author 지인호
- * @since 1.0
+ * @since 1.0.0
  * @see AccountDto
  */
 public record UnauthorizedAccountDto(

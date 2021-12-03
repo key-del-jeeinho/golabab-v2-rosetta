@@ -9,7 +9,7 @@ import java.time.LocalDate;
  * 팁틱 알림 표시 및 팁틱 추가 등에 사용됩니다.
  *
  * @author 지인호
- * @since 1.0
+ * @since 1.0.0
  */
 public record TipticDto (
         @JsonProperty("id") long id,

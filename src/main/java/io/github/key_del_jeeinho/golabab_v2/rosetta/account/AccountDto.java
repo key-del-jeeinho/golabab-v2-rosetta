@@ -7,7 +7,7 @@ import com.fasterxml.jackson.annotation.JsonProperty;
  * 주로 투표 참여 및 관리시 접근 권한을 확인하기위해 사용됩니다.
  *
  * @author 지인호
- * @since 1.0
+ * @since 1.0.0
  * @see UnauthorizedAccountDto
  */
 public record AccountDto (

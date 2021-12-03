@@ -10,7 +10,7 @@ import java.util.Map;
  * 주로 웹 클라이언트를 통한 랭킹뷰어 기능을 위해 사용됩니다.
  *
  * @author 지인호
- * @since 1.0
+ * @since 1.0.0
  */
 
 public record RankingDto (

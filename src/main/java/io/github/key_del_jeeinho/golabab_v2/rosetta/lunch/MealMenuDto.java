@@ -9,7 +9,7 @@ import java.util.List;
  * 급식 조회에 사용됩니다.
  *
  * @author 지인호
- * @since 1.0
+ * @since 1.0.0
  */
 
 public record MealMenuDto (

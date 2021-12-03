@@ -9,7 +9,7 @@ package io.github.key_del_jeeinho.golabab_v2.rosetta.lunch;
  * </ol>
  *
  * @author 지인호
- * @since 1.0
+ * @since 1.0.0
  * @see MealMenuDto
  * @see DayMenuDto
  */
