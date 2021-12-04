@@ -12,6 +12,7 @@ package io.github.key_del_jeeinho.golabab_v2.rosetta.lunch;
  * @since 1.0.0
  * @see MealMenuDto
  * @see DayMenuDto
+ *
  */
 public enum MealType {
     BREAKFAST,

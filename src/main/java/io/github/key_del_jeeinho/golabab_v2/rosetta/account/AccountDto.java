@@ -9,7 +9,9 @@ import com.fasterxml.jackson.annotation.JsonProperty;
  * @author 지인호
  * @since 1.0.0
  * @see UnauthorizedAccountDto
+ * @deprecated
  */
+@Deprecated
 public record AccountDto (
         @JsonProperty("id") long id,
         @JsonProperty("email") String email, //인증이 완료되어 사용자의 소유로 판명된 학교 이메일 입니다.
