@@ -5,7 +5,7 @@ plugins {
     id 'signing'
 }
 
-final String current_version = '1.1.0-RELEASE'
+final String current_version = '1.2.0-RELEASE'
 
 group 'io.github.key-del-jeeinho'
 version current_version
