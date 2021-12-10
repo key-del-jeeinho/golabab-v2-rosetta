@@ -3,6 +3,8 @@ package io.github.key_del_jeeinho.golabab_v2.rosetta.account.response;
 import com.fasterxml.jackson.annotation.JsonProperty;
 import io.github.key_del_jeeinho.golabab_v2.rosetta.account.Role;
 
+import javax.validation.constraints.Email;
+
 /**
  * GET Method Request 를 통해 계정을 조회할 때, Response Data를 담는 DTO 입니다.
  *
@@ -16,7 +18,7 @@ import io.github.key_del_jeeinho.golabab_v2.rosetta.account.Role;
  */
 public record GetAccountResponse (
         @JsonProperty("id") long id,
-        @JsonProperty("email") String email,
+        @Email @JsonProperty("email") String email,
         @JsonProperty("role") Role role,
         @JsonProperty("discordId") long discordId
 ) {}

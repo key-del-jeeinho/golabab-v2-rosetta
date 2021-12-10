@@ -3,6 +3,8 @@ package io.github.key_del_jeeinho.golabab_v2.rosetta.account.request;
 import com.fasterxml.jackson.annotation.JsonProperty;
 import io.github.key_del_jeeinho.golabab_v2.rosetta.account.Role;
 
+import javax.validation.constraints.Email;
+
 /**
  * PATCH Method Request 를 통해 계정을 수정할 때, Response Data를 담는 DTO 입니다.
  *
@@ -14,7 +16,7 @@ import io.github.key_del_jeeinho.golabab_v2.rosetta.account.Role;
  * @param discordId 수정할 계정의 디스코드 아이디 입니다.
  */
 public record EditAccountRequest(
-        @JsonProperty("email") String email,
+        @Email @JsonProperty("email") String email,
         @JsonProperty("role") Role role,
         @JsonProperty("discordId") long discordId
 ) {}
