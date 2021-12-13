@@ -10,7 +10,9 @@ import java.time.LocalDate;
  *
  * @author 지인호
  * @since 1.0.0
+ * @deprecated
  */
+@Deprecated
 public record TipticDto (
         @JsonProperty("id") long id,
         @JsonProperty("message") String message, //팁틱 알림으로 표시할 메세지 입니다.

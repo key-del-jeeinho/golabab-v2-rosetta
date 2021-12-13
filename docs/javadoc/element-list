@@ -5,4 +5,6 @@ io.github.key_del_jeeinho.golabab_v2.rosetta.authorize.request
 io.github.key_del_jeeinho.golabab_v2.rosetta.authorize.response
 io.github.key_del_jeeinho.golabab_v2.rosetta.lunch
 io.github.key_del_jeeinho.golabab_v2.rosetta.tiptic
+io.github.key_del_jeeinho.golabab_v2.rosetta.tiptic.request
+io.github.key_del_jeeinho.golabab_v2.rosetta.tiptic.response
 io.github.key_del_jeeinho.golabab_v2.rosetta.vote
