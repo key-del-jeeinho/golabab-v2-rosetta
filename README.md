@@ -8,7 +8,7 @@ golabab v2 의 여러 서비스간의 통신에서 사용하는 통신객체를 
 ## Use at Gradle
 ```groovy
 dependencies {
-    implementation 'io.github.key-del-jeeinho:golabab-v2-rosetta-lib:1.2.1-RELEASE'
+    implementation 'io.github.key-del-jeeinho:golabab-v2-rosetta-lib:1.3.0-RELEASE'
 }
 ```
 
@@ -17,6 +17,6 @@ dependencies {
 <dependency>
   <groupId>io.github.key-del-jeeinho</groupId>
   <artifactId>golabab-v2-rosetta-lib</artifactId>
-  <version>1.2.1-RELEASE</version>
+  <version>1.3.0-RELEASE</version>
 </dependency>
 ```
